@@ -1,4 +1,4 @@
 # apprentice_daily-report
 
-あああ
-あああ
+アプレンティスの日報。
+push時にslackへ通知がいきます(予定)。
